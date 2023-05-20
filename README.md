@@ -1,7 +1,5 @@
 # Site hambugeria teste
 
-# Título do Projeto
-
 Este é um projeto incrível que usa HTML, CSS e JavaScript para criar uma página da web impressionante.
 
 ## Descrição
